@@ -1,0 +1,12 @@
+생태계 탐험 교실 v7 — Supabase 연결 정보 입력 완료
+
+config.js에 Supabase Project URL 및 공개 키를 모두 반영했습니다.
+URL: https://nbgxzmimemjirnzwjmsq.supabase.co
+
+다음 단계:
+1. Supabase SQL Editor에서 schema.sql 실행 완료 확인.
+2. Authentication → Anonymous Sign-ins 활성화 확인.
+3. 파일을 압축 해제하고 전체를 GitHub Pages 저장소 루트에 업로드.
+4. PC 교사 화면과 태블릿 학생 화면으로 실제 저장·조회 테스트.
+
+설정값 입력 완료는 서버 접속 검증이나 실제 데이터 동기화 성공을 의미하지 않습니다.
